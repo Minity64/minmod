@@ -1,0 +1,8 @@
+"minmod"
+{
+	"base"		"base"
+	"title"		"MinMod Dev"
+	"maps"		"^mm_"
+	"menusystem"	"1"
+
+}
